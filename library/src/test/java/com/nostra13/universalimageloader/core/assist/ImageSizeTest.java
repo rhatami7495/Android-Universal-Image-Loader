@@ -1,4 +1,4 @@
-package com.nostra13.universalimageloader.core.assist;
+package com.imageLoader.universalimageloader.core.assist;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,9 +7,9 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.nostra13.universalimageloader.core.imageaware.ImageAware;
-import com.nostra13.universalimageloader.core.imageaware.ImageViewAware;
-import com.nostra13.universalimageloader.utils.ImageSizeUtils;
+import com.imageLoader.universalimageloader.core.imageaware.ImageAware;
+import com.imageLoader.universalimageloader.core.imageaware.ImageViewAware;
+import com.imageLoader.universalimageloader.utils.ImageSizeUtils;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Before;
