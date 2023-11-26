@@ -19,9 +19,11 @@ UIL aims to provide a powerful, flexible and highly customizable instrument for 
 
 Android 4.1+ support
 
-## Downloads
- * **[universal-image-loader-1.9.5.jar](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/downloads/universal-image-loader-1.9.5.jar)**
- * [<img src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="45px" />](https://play.google.com/store/apps/details?id=com.nostra13.universalimageloader.sample) [![QR Code](https://lh3.ggpht.com/csXEddxiLgQ6FxckefjQnP1PVugbaAYOdcuTa3vVtGV1PlWbFu2dYggoH8rI1w2RdEz1=w50)](http://chart.apis.google.com/chart?chs=300x300&cht=qr&chld=|1&chl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.nostra13.universalimageloader.sample) [<img src="https://www.javatpoint.com/fullformpages/images/apk.png" height="45px" />](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/downloads/universal-image-loader-sample-1.9.5.apk)
+[//]: # (## Downloads)
+
+[//]: # ( * **[universal-image-loader-1.9.5.jar]&#40;https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/downloads/universal-image-loader-1.9.5.jar&#41;**)
+
+[//]: # ( * [<img src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="45px" />]&#40;https://play.google.com/store/apps/details?id=com.nostra13.universalimageloader.sample&#41; [![QR Code]&#40;https://lh3.ggpht.com/csXEddxiLgQ6FxckefjQnP1PVugbaAYOdcuTa3vVtGV1PlWbFu2dYggoH8rI1w2RdEz1=w50&#41;]&#40;http://chart.apis.google.com/chart?chs=300x300&cht=qr&chld=|1&chl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.nostra13.universalimageloader.sample&#41; [<img src="https://www.javatpoint.com/fullformpages/images/apk.png" height="45px" />]&#40;https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/downloads/universal-image-loader-sample-1.9.5.apk&#41;)
 
 ## [Documentation](https://github.com/nostra13/Android-Universal-Image-Loader/wiki)
  * **[Quick Setup](https://github.com/nostra13/Android-Universal-Image-Loader/wiki/Quick-Setup)**
@@ -37,7 +39,7 @@ Android 4.1+ support
 ### Dependency
 
 ```
-implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.8'
+implementation 'com.github.rhatami7495:Android-Universal-Image-Loader:1.9.8'
 ```
 
 ### Acceptable URIs examples
