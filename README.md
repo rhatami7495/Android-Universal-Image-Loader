@@ -37,7 +37,7 @@ Android 4.1+ support
 ### Dependency
 
 ```
-implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.8'
 ```
 
 ### Acceptable URIs examples
